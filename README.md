@@ -27,6 +27,9 @@ A full end-to-end data analysis project using a real-world dataset of the riches
 - Created a clustered column chart showing net worth of the Top 10 billionaires
 - Created a second clustered column chart showing billionaire count by age group, which revealed a bell curve peaking between ages 50 and 90
 
+# Final Report
+- <a href="https://github.com/AbdikadirIsse/Billionaires-Data-Analysis-Project/blob/main/Analyzed%20Billionaires%20Dataset.xlsx">Final Cleaned Dataset, Pivot Tables & Visualization</a>
+
 ## Tools Used
 - Microsoft Excel
 - Data Analysis ToolPak
