@@ -4,6 +4,7 @@ A full end-to-end data analysis project using a real-world dataset of the riches
 ## Dataset used
 - <a href="https://github.com/AbdikadirIsse/Billionaires-Data-Analysis-Project/blob/main/Raw%20Uncleaned%20Billionaires%20Dataset.xlsx">Dataset</a>
 
+# Process
 ## 1. Data Cleaning
 - Created a backup copy of the raw data before making any changes
 - Removed 6 duplicate rows using the Remove Duplicates tool
